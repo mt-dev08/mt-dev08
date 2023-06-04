@@ -1,4 +1,4 @@
-# miantalha
+
 ![logo](https://github.com/mt-dev08/miantalha/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Talha Adeel</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
