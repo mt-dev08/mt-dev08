@@ -16,5 +16,5 @@ jobs:
            # Use this username's contribution graph  
            user_name: talhaadeel
            # Text on the contribution graph 
-           text: TALHA ADEEL
+           text: TALHA
       - uses: jasineri/simple-push-action@v1
