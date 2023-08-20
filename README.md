@@ -12,8 +12,8 @@
 - 📢 I Love to read books, and learn new technologies.
 
 	<a  align="center">
-        ![](https://komarev.com/ghpvc/?username=mt-dev08&color=lightgrey&label=Profile+Views)
-	</a>
+ ![](https://komarev.com/ghpvc/?username=mt-dev08&color=lightgrey&label=Profile+Views)
+ </a>
 
 
 ## GitHub Analytics
