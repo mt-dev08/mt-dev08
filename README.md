@@ -62,7 +62,7 @@
 	<a href="https://twitter.com/@_mta08">
 		<img alt="@iqra_sarwar_ | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="in/talha-adeel-09a46b234">
+	<a href="https://www.linkedin.com/in/talha-adeel-09a46b234">
 		<img alt="Talha Adeel| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<!-- <a href="https://www.codechef.com/users/iqrasarwar">
