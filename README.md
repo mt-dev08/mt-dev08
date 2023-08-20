@@ -1,5 +1,5 @@
 
-# Hello World, I am TALHA ADEEL👋
+# Hello World, I am TALHA👋
 ![gitartwork](gitartwork.svg)
 
 
