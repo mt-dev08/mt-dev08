@@ -14,12 +14,24 @@
  </a>
 
 ## GitHub Analytics
+
 <p align="center">
-	<a href="https://github.com/mt-dev08">
-	 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mt-dev08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>  
-	</a>
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mt-dev08&show_icons=true&locale=en&layout=demo&theme=algolia" />
+    <a href="https://github.com/mt-dev08/">
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mt-dev08&theme=vue"/>
+    </a>
+    <a href="https://github.com/mt-dev08/">
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mt-dev08&show_icons=true&locale=en&layout=demo&theme=algolia"/>
+    </a>
 </p>
+
+## GitHub Activity Graph
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mt-dev08&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 3D Contributions
+
+![3D Calendar](https://raw.githubusercontent.com/mt-dev08/github-profile-3d-contrib/main/profile-season-animate.svg)
+
 
 ## Tech Stack
 
