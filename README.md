@@ -3,7 +3,7 @@
 
 ### I am a Software Engineer and Tech Enthusiast 
 - 😄 I am currently striving to learn, develop & grow.
-- 🔭 I am currently working on ReactJs.
+- 🔭 I am currently working on Java Spring Boot.
 - 🌱 I am currently learning everything 😄 but specifically expanding my knowledge in Full Stack Development.
 - 🧑🏼‍💻 I am looking to collaborate on Web Development Projects.
 - 🥅 2023 Goals: Contribute to open source and learn Full Stack Development as much as possible.
@@ -35,7 +35,6 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="55" height="55"/> </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/springboot/springboot-original.svg" alt="spring boot" width="55" height="55"/> </a>
 <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="55" height="55"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/> </a>
