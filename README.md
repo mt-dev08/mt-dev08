@@ -9,9 +9,7 @@
 - 🥅 2023 Goals: Contribute to open source and learn Full Stack Development as much as possible.
 - 📢 I Love to read books, and learn new technologies.
 
-<a  align="center">
- ![](https://komarev.com/ghpvc/?username=mt-dev08&color=lightgrey&label=Profile+Views)
- </a>
+<a  align="center">![](https://komarev.com/ghpvc/?username=mt-dev08&color=lightgrey&label=Profile+Views)</a>
 
 ## GitHub Analytics
 
