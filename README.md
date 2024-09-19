@@ -6,7 +6,7 @@
 - 🔭 I am currently working on Java Spring Boot.
 - 🌱 I am currently learning everything 😄 but specifically expanding my knowledge in Full Stack Development.
 - 🧑🏼‍💻 I am looking to collaborate on Web Development Projects.
-- 🥅 2023 Goals: Contribute to open source and learn Full Stack Development as much as possible.
+- 🥅 2024 Goals: Contribute to open source and learn Full Stack Development as much as possible.
 - 📢 I Love to read books, and learn new technologies.
 
 <a  align="center">![](https://komarev.com/ghpvc/?username=mt-dev08&color=lightgrey&label=Profile+Views)</a>
